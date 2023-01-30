@@ -9,7 +9,7 @@ public class javaprogram {
 	public static void main(String[] args) {
 		List<Object>l=new ArrayList<>();
 		l.add(23);
-		l.add("vfxsbfd");
+		l.add("CoreJava");
 		for (Object object : l) {
 			System.out.println(object);
 			
